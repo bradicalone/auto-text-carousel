@@ -2,7 +2,7 @@
     * clone or download
     * run the script.js
     * Or use from cdn link:
-        <script src="https://cdn.jsdelivr.net/gh/bradicalone/auto-text-carousel/index.js"></script>
+        <script src="https://cdn.jsdelivr.net/gh/bradicalone/auto-text-carousel/index.js" defer></script>
 
 ### Usage
     * data-canvas='[["Some cool and maybe long slogan here"], "rgba(104,186,244,1)", false, 2]'
