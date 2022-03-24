@@ -1,8 +1,8 @@
 ## Installation
-    * clone
-    * run script.js and style.css to your html file
-    * Or use from cdn links:
-        <script src="https://cdn.jsdelivr.net/gh/bradicalone/auto-text-carousel"></script>
+    * clone or download
+    * run the script.js
+    * Or use from cdn link:
+        <script src="https://cdn.jsdelivr.net/gh/bradicalone/auto-text-carousel/index.js"></script>
 
 ### Usage
     * data-canvas='[["Some cool and maybe long slogan here"], "rgba(104,186,244,1)", false, 2]'
